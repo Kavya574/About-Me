@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Kavya574
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS, Python, Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kavya572004@gmail.com
+### 👋 Hi there, I'm Kavya!
 
-<!---
-Kavya574/Kavya574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a B.Com Computer Applications graduate from the University of Madras with a passion for technology and learning.
+
+🔹 I’m currently exploring:
+- Python programming 🐍  
+- Web development basics (HTML & CSS) 🌐  
+- Git & GitHub for version control 🗂️  
+
+💡 I'm a beginner, but I’m eager to grow by building small projects and collaborating with others in the developer community.
+
+📫 Let's connect and learn together!
+
